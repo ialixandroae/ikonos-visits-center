@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.esri-sketch--vertical .esri-sketch__tool-section:first-child, 
+.esri-sketch--vertical .esri-sketch__tool-section:last-child {
+  display: none;
+}
