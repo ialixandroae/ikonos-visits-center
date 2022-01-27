@@ -1,29 +1,25 @@
 {
   "files": {
-    "main.css": "/ikonos-visits-center/static/css/main.ffe4f060.chunk.css",
-    "main.js": "/ikonos-visits-center/static/js/main.00c8c485.chunk.js",
-    "main.js.map": "/ikonos-visits-center/static/js/main.00c8c485.chunk.js.map",
-    "runtime-main.js": "/ikonos-visits-center/static/js/runtime-main.3841f3c0.js",
-    "runtime-main.js.map": "/ikonos-visits-center/static/js/runtime-main.3841f3c0.js.map",
-    "static/css/2.fb99d7dc.chunk.css": "/ikonos-visits-center/static/css/2.fb99d7dc.chunk.css",
-    "static/js/2.259f7ba3.chunk.js": "/ikonos-visits-center/static/js/2.259f7ba3.chunk.js",
-    "static/js/2.259f7ba3.chunk.js.map": "/ikonos-visits-center/static/js/2.259f7ba3.chunk.js.map",
-    "index.html": "/ikonos-visits-center/index.html",
-    "precache-manifest.fa3cb446ac011c60a299fc07736e757a.js": "/ikonos-visits-center/precache-manifest.fa3cb446ac011c60a299fc07736e757a.js",
-    "service-worker.js": "/ikonos-visits-center/service-worker.js",
-    "static/css/2.fb99d7dc.chunk.css.map": "/ikonos-visits-center/static/css/2.fb99d7dc.chunk.css.map",
-    "static/css/main.ffe4f060.chunk.css.map": "/ikonos-visits-center/static/css/main.ffe4f060.chunk.css.map",
-    "static/js/2.259f7ba3.chunk.js.LICENSE.txt": "/ikonos-visits-center/static/js/2.259f7ba3.chunk.js.LICENSE.txt",
-    "static/media/imagery1.jpg": "/ikonos-visits-center/static/media/imagery1.5f372b12.jpg",
-    "static/media/imagery2.jpg": "/ikonos-visits-center/static/media/imagery2.d0a13eb9.jpg",
-    "static/media/imagery3.jpg": "/ikonos-visits-center/static/media/imagery3.76fcf4cf.jpg",
-    "static/media/spaceheader.jpg": "/ikonos-visits-center/static/media/spaceheader.6185edb8.jpg"
+    "main.css": "/3d-weather-app/static/css/main.919ebf7d.chunk.css",
+    "main.js": "/3d-weather-app/static/js/main.580585a2.chunk.js",
+    "main.js.map": "/3d-weather-app/static/js/main.580585a2.chunk.js.map",
+    "runtime-main.js": "/3d-weather-app/static/js/runtime-main.38a46445.js",
+    "runtime-main.js.map": "/3d-weather-app/static/js/runtime-main.38a46445.js.map",
+    "static/css/2.220ccb42.chunk.css": "/3d-weather-app/static/css/2.220ccb42.chunk.css",
+    "static/js/2.d2062eb9.chunk.js": "/3d-weather-app/static/js/2.d2062eb9.chunk.js",
+    "static/js/2.d2062eb9.chunk.js.map": "/3d-weather-app/static/js/2.d2062eb9.chunk.js.map",
+    "index.html": "/3d-weather-app/index.html",
+    "precache-manifest.cfeb451fd80c513094f98059fbf86714.js": "/3d-weather-app/precache-manifest.cfeb451fd80c513094f98059fbf86714.js",
+    "service-worker.js": "/3d-weather-app/service-worker.js",
+    "static/css/2.220ccb42.chunk.css.map": "/3d-weather-app/static/css/2.220ccb42.chunk.css.map",
+    "static/css/main.919ebf7d.chunk.css.map": "/3d-weather-app/static/css/main.919ebf7d.chunk.css.map",
+    "static/js/2.d2062eb9.chunk.js.LICENSE.txt": "/3d-weather-app/static/js/2.d2062eb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3841f3c0.js",
-    "static/css/2.fb99d7dc.chunk.css",
-    "static/js/2.259f7ba3.chunk.js",
-    "static/css/main.ffe4f060.chunk.css",
-    "static/js/main.00c8c485.chunk.js"
+    "static/js/runtime-main.38a46445.js",
+    "static/css/2.220ccb42.chunk.css",
+    "static/js/2.d2062eb9.chunk.js",
+    "static/css/main.919ebf7d.chunk.css",
+    "static/js/main.580585a2.chunk.js"
   ]
 }
